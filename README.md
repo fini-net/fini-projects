@@ -7,3 +7,6 @@ There may not need to be any code in this repo.  It is just a place for
 each get their own repo when they are undertaken.
 
 Please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+Then learn how to [contribute](CONTRIBUTING.md).
+
+Thanks for dropping by.
