@@ -1,5 +1,8 @@
 # FINI Projects
 
+[![GitHub Issues](https://img.shields.io/github/issues/fini-net/fini-projects)](https://github.com/fini-net/fini-projects/issues)
+[![GitHub branches](https://badgen.net/github/branches/fini-net/fini-projects)](https://github.com/fini-net/fini-projects/branches)
+
 Description: _Projects and ideas for projects_
 
 There may not need to be any code in this repo.  It is just a place for
