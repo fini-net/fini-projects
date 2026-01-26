@@ -14,7 +14,9 @@
       "Bash(git log:*)",
       "Bash(identify:*)",
       "Bash(just shellcheck:*)",
-      "Bash(just claude_review:*)"
+      "Bash(just claude_review:*)",
+      "Bash(gh issue view:*)",
+      "Bash(gh issue list:*)"
     ],
     "deny": [],
     "ask": []
