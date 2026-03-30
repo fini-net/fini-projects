@@ -1,22 +1,22 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.chicks.net)",
-      "WebFetch(domain:developers.facebook.com)",
-      "WebFetch(domain:github.com)",
-      "WebFetch(domain:raw.githubusercontent.com)",
-      "WebFetch(domain:en.wikipedia.org)",
-      "WebSearch",
-      "Bash(markdownlint-cli2:*)",
       "Bash(gh issue create:*)",
-      "Bash(gh pr view:*)",
+      "Bash(gh issue list:*)",
+      "Bash(gh issue view:*)",
       "Bash(gh pr diff:*)",
+      "Bash(gh pr view:*)",
       "Bash(git log:*)",
       "Bash(identify:*)",
-      "Bash(just shellcheck:*)",
       "Bash(just claude_review:*)",
-      "Bash(gh issue view:*)",
-      "Bash(gh issue list:*)"
+      "Bash(just shellcheck:*)",
+      "Bash(markdownlint-cli2:*)",
+      "WebFetch(domain:developers.facebook.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.chicks.net)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []
