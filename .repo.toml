@@ -1,0 +1,15 @@
+# .repo.toml
+
+[about]
+description = "Projects and ideas for projects 💡"
+topics = ["ideas"]
+
+[urls]
+git_ssh = "git@github.com:fini-net/fini-projects.git"
+web_url = "https://github.com/fini-net/fini-projects"
+
+[flags]
+claude = false
+claude-review = false
+copilot-review = false
+standard-release = true
